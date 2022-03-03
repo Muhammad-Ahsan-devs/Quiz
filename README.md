@@ -1,3 +1,4 @@
 # Quiz
 
-## See dev branch to run the code.
+## How to Run:
+```ruby main.rb```
